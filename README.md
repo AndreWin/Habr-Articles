@@ -1,2 +1,3 @@
 # Test-Repo
-Test repository to get more git skills.
+
+This is my test repository for learning git and how github works.
